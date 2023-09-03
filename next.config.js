@@ -1,7 +1,7 @@
 module.exports = {
     // basePath: '/',
     target: "serverless",
-    distDir: 'build',
+    // distDir: 'build',
     trailingSlash: true
     // reactStrictMode: true,
 }
